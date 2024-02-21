@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collatz", "Collatz\Collatz.csproj", "{5CB2E816-468F-4A81-AFFF-701D0115E854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collatz.Tests", "Collatz.Tests\Collatz.Tests.csproj", "{B26192A4-9207-4802-896C-F97A09D1E081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CB2E816-468F-4A81-AFFF-701D0115E854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB2E816-468F-4A81-AFFF-701D0115E854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB2E816-468F-4A81-AFFF-701D0115E854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB2E816-468F-4A81-AFFF-701D0115E854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B26192A4-9207-4802-896C-F97A09D1E081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26192A4-9207-4802-896C-F97A09D1E081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26192A4-9207-4802-896C-F97A09D1E081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26192A4-9207-4802-896C-F97A09D1E081}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

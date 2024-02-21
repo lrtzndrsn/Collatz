@@ -1,0 +1,12 @@
+C:\Users\LRTZ\Desktop\Datalogi\Softwareudvikling\8i\CollatzSolution\Collatz\bin\Debug\net6.0\Collatz.deps.json
+C:\Users\LRTZ\Desktop\Datalogi\Softwareudvikling\8i\CollatzSolution\Collatz\bin\Debug\net6.0\Collatz.dll
+C:\Users\LRTZ\Desktop\Datalogi\Softwareudvikling\8i\CollatzSolution\Collatz\bin\Debug\net6.0\Collatz.pdb
+C:\Users\LRTZ\Desktop\Datalogi\Softwareudvikling\8i\CollatzSolution\Collatz\obj\Debug\net6.0\Collatz.csproj.AssemblyReference.cache
+C:\Users\LRTZ\Desktop\Datalogi\Softwareudvikling\8i\CollatzSolution\Collatz\obj\Debug\net6.0\Collatz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LRTZ\Desktop\Datalogi\Softwareudvikling\8i\CollatzSolution\Collatz\obj\Debug\net6.0\Collatz.AssemblyInfoInputs.cache
+C:\Users\LRTZ\Desktop\Datalogi\Softwareudvikling\8i\CollatzSolution\Collatz\obj\Debug\net6.0\Collatz.AssemblyInfo.cs
+C:\Users\LRTZ\Desktop\Datalogi\Softwareudvikling\8i\CollatzSolution\Collatz\obj\Debug\net6.0\Collatz.csproj.CoreCompileInputs.cache
+C:\Users\LRTZ\Desktop\Datalogi\Softwareudvikling\8i\CollatzSolution\Collatz\obj\Debug\net6.0\Collatz.dll
+C:\Users\LRTZ\Desktop\Datalogi\Softwareudvikling\8i\CollatzSolution\Collatz\obj\Debug\net6.0\refint\Collatz.dll
+C:\Users\LRTZ\Desktop\Datalogi\Softwareudvikling\8i\CollatzSolution\Collatz\obj\Debug\net6.0\Collatz.pdb
+C:\Users\LRTZ\Desktop\Datalogi\Softwareudvikling\8i\CollatzSolution\Collatz\obj\Debug\net6.0\ref\Collatz.dll
